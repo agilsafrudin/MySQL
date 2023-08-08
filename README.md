@@ -20,7 +20,8 @@ is_valid = 1 AND YEAR(order_date)=2021
 GROUP BY 1
 ORDER BY 2 DESC
 
-![image](https://github.com/agilsafrudin/MySQL/assets/141690907/4d7ae3f3-d1f8-4988-b160-93f9e84cf66f)
+![image](https://github.com/agilsafrudin/MySQL/assets/141690907/efbc73b4-23ff-41da-bd59-90a9ea60b30f)
+
 
 For the other question (number 2), i make this query.
 
@@ -34,7 +35,7 @@ is_valid = 1 AND YEAR(od.order_date)=2021
 GROUP BY 1
 ORDER BY 2 DESC
 
-![image](https://github.com/agilsafrudin/MySQL/assets/141690907/3ba545ee-b11d-4949-830b-a9ec01708b4a)
+![image](https://github.com/agilsafrudin/MySQL/assets/141690907/dcc63591-ba37-4deb-8c47-61cd955156b2)
 
 This project is still in development, and there are many more things I can explore using this dataset. I plan to continue updating the results I obtain in the future. Such is the project I have created.
 
